@@ -1,3 +1,6 @@
+<h1 align="center">Draw house in assembler</h1>
+![Screen](https://github.com/N1ghtF1re/Draw-house-in-assembler/blob/master/Screen.PNG)
+
 About program
 --------------------
 The program draws a beautiful house, drawn in assembler (13h DOS mode)
